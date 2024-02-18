@@ -3,11 +3,11 @@
 title: 吳翊卓
 
 # Name pronunciation (optional)
-name_pronunciation: Yi Zhuo Wu
+name_pronunciation:  Wu Yi Zhuo
 
 # Full name (for SEO)
-first_name: Zhuo Wu
-last_name: Yi
+first_name: Yi Zhuo
+last_name: Wu
 
 # Status emoji
 status:
@@ -22,7 +22,7 @@ role: Senior Product Manager
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Alibaba Group
-    url: https://www.alibabagroup.com
+    url: https://www.alibabagroup.com/en-US
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -85,27 +85,19 @@ skills:
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the  name: 21851518@zju.edu.cn
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    name: 21851518@zju.edu.cn
+  - #icon: twitter
+    #icon_pack: fab
+    #link: https://twitter.com/GeorgeCushen
+    #label: Follow me on Twitter
+    #display:
+      #header: true
+  -
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -117,5 +109,11 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+I obtained a Master’s degree  from the School of Software at Zhejiang University, and I have three years of work experience in product design. I previously held the position of Senior Product Manager at Alibaba.
+
+I am interested in human-computer interaction, user-centered design, and psychology. *Here are my personal characteristics:*
+   **1.Experience in product design for products with hundreds of millions of daily active users (DAU).** I have served as a product manager at Amap and Taobao, where my primary function was human-centered product design. I collaborated with developers to ensure timely product launches and iterated the products based on data feedback. This involved extensive use of participatory user research, data analysis, and other methods.
+   **2.A strong motivation to integrate technology with the health sector, especially mental health.** Having been a patient myself, I underwent two years of psychological counseling. I aim to leverage potential technological means to assist more potential patients.
+   **3.Strong learning capabilities.** Through diligent study, I was admitted to Zhejiang University (QS: 44) and received top 1% scholarships and honors during both my undergraduate and graduate studies.
 {style="text-align: justify;"}
