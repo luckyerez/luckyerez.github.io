@@ -74,8 +74,8 @@ sections:
           company_url: 'https://mobile.amap.com/'
           company_logo: org-x
           location: Beijing, China
-          date_start: '2021-08-15'
-          date_end: '2020-07-13'
+          date_start: '2020-07-13'
+          date_end: '2021-08-15'
           description: |2-
               Responsibilities include:
               * User Research
@@ -83,6 +83,21 @@ sections:
               * Producing Documents
               * Multi-role Collaboration and Implementation
               * Product Iteration
+        - title: Assistant product manager
+          company: Hangzhou Xiongwei Technology Co., Ltd. Hangzhou
+          company_url: 'http://www.sovell.com.cn'
+          company_logo: org-x
+          location: Hangzhou, China
+          date_start: '2018-03-20'
+          date_end: '2018-08-29'
+          description: |2-
+              Responsibilities include:
+              * Market Analysis
+              * Competitive Analysis
+              * User Research
+              * Feature Design
+              * Execution and Implementation
+        
     design:
       columns: '2'
   - block: skills
