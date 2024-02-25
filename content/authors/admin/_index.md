@@ -29,7 +29,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Human-Computer Interaction Design
+  - Human-Computer Interaction
   - Human-centered design
   - Cognitive Psychology
 
@@ -90,36 +90,16 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+    link: 'mailto:21851518@zju.edu.cn'
+    
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 I obtained a Master’s degree  from the School of Software at Zhejiang University, and I have three years of work experience in product design. I previously held the position of Senior Product Manager at Alibaba.
 
-I am interested in human-computer interaction, user-centered design, and psychology. *Here are my personal characteristics:*
-   **1.Experience in product design for products with hundreds of millions of daily active users (DAU).** I have served as a product manager at Amap and Taobao, where my primary function was human-centered product design. I collaborated with developers to ensure timely product launches and iterated the products based on data feedback. This involved extensive use of participatory user research, data analysis, and other methods.
-   **2.A strong motivation to integrate technology with the health sector, especially mental health.** Having been a patient myself, I underwent two years of psychological counseling. I aim to leverage potential technological means to assist more potential patients.
-   **3.Strong learning capabilities.** Through diligent study, I was admitted to Zhejiang University (QS: 44) and received top 1% scholarships and honors during both my undergraduate and graduate studies.
+I am interested in human-computer interaction, user-centered design, and psychology.<span style="color: #6C6C6C;"> *Here are my personal characteristics:*</span>  
+   <strong><span style="color: #004B97;">1.Experience in product design for products with hundreds of millions of daily active users (DAU).</span></strong> I have served as a product manager at Amap and Taobao, and have rich practical experience in product design, team collaboration, and data analysis.  
+   <strong><span style="color: #004B97;">2.A strong motivation to integrate technology with the health sector, especially mental health.</span></strong> Having been a patient myself, I underwent two years of psychological counseling. I aim to leverage potential technological means to assist more potential patients.  
+   <strong><span style="color: #004B97;">3.Strong learning capabilities.</span></strong> Through diligent study, I was admitted to Zhejiang University (QS: 44) and received top 1% scholarships and honors during both my undergraduate and graduate studies.
 {style="text-align: justify;"}
