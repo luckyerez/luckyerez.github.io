@@ -44,6 +44,7 @@ sections:
       username: admin
   
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -97,7 +98,6 @@ sections:
               * User Research
               * Feature Design
               * Execution and Implementation
-        
     design:
       columns: '2'
   - block: skills
@@ -108,76 +108,23 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: accomplishments
-    content:
+
+  #- block: accomplishments
+  #  content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
+      #title: 'Accomplish&shy;ments'
+      #subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
+      #date_format: Jan 2006
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
-    design:
-      columns: '2'
+      #items:
+       
   
-  #- block: collection
-   #  id: posts
-    content:
-      title: 
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    #design:
-      # Choose a layout view
-    #  view: compact
-    #  columns: '2'
+  
   #- block: portfolio
     #id: projects
     #content:
@@ -205,14 +152,45 @@ sections:
     #  view: showcase
       # For Showcase view, flip alternate rows?
     #  flip_alt_rows: false
-  #- block: markdown
-   # content:
-   #   title: Gallery
-  #    subtitle: ''
-  #    text: |-
-  #      {{< gallery album="demo" >}}
-  #  design:
-  #   columns: '1'
+  - block: markdown
+    id: protfolio
+    content:
+      title: Protfolio
+      subtitle: ''
+      text: |-
+     
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/3.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/4.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/6.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/8.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/9.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/10.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/11.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/12.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/13.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/14.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/15.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/16.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/17.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/18.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/19.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/21.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/22.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/23.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/24.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/25.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/26-37.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/27-38.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/28-43.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/29-44.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/30-46.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/31-47.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/33-49.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/34-50.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/35-51.jpg)
+       ![](https://cdn.jsdelivr.net/gh/luckyerez/photo-house/img/36-52.jpg)
+    design:
+      columns: '1'
   #- block: collection
   #  id: featured
   #  content:

@@ -13,9 +13,12 @@ main:
   # name: Projects
   # url: 'uploads/thesis.pdf'
   # weight: 30
-  # name: Talks
-  # url: '#talks'
-  # weight: 40
+  - name: experience
+    url: '#experience'
+    weight: 20
+  - name: protfolio
+    url: '#protfolio'
+    weight: 30
   - name: Thesis #原来是publication
     url: 'uploads/thesis.pdf'
     weight: 40
@@ -25,6 +28,7 @@ main:
   - name : CV
     url: 'uploads/resume.pdf'
     weight: 50
+  
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
