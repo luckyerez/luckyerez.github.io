@@ -13,10 +13,10 @@ main:
   # name: Projects
   # url: 'uploads/thesis.pdf'
   # weight: 30
-  - name: experience
+  - name: Experience
     url: '#experience'
     weight: 20
-  - name: protfolio
+  - name: Protfolio
     url: '#protfolio'
     weight: 30
   - name: Thesis #原来是publication
