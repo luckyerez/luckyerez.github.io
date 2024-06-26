@@ -32,7 +32,7 @@ interests:
   - Human-Computer Interaction
   - Human-centered design
   - Co-design
-  - Cognitive Psychology
+  - Digital health
 
 # Education to show in About widget
 education:
