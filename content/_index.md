@@ -65,9 +65,9 @@ sections:
           date_end: '2023-10-09'
           description: |2-
               Responsibilities include:
-              * Product Planning
-              * Requirement Analysis
-              * Producing High-Quality Documents
+              * Product Life Cycle Planning
+              * Stakeholders Analysis
+              * Product Design
               * Multi-role Collaboration and Implementation
               * Project Management
         - title: Product Manager
@@ -81,7 +81,7 @@ sections:
               Responsibilities include:
               * User Research
               * Product Prototype Design
-              * Producing Documents
+              * Producing Requirements Documentation
               * Multi-role Collaboration and Implementation
               * Product Iteration
         - title: Assistant product manager

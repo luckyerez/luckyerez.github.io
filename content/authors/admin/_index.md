@@ -31,6 +31,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Human-Computer Interaction
   - Human-centered design
+  - Co-design
   - Cognitive Psychology
 
 # Education to show in About widget
@@ -77,7 +78,7 @@ skills:
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Playing electric guitar
         description: ''
         percent: 80
         icon: camera-retro
