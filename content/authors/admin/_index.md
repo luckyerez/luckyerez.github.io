@@ -30,16 +30,18 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Human-Computer Interaction
-  - Human-centered design
-  - Co-design
-  - Digital health
+  - Human-Centered Design
+  - Co-Design
+  - Digital Health
 
 # Education to show in About widget
 education:
   courses:
     - course: MEng in Design Engineering
       institution: Zhejiang University
+      url: https://www.zju.edu.cn/english/
       year: 2020
+      Supervisor: Shijian LUO
     - course: BEng in Industrial Design
       institution: Zhejiang A&F University
       year: 2017
