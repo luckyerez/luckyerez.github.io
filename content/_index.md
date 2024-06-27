@@ -67,8 +67,8 @@ sections:
               Responsibilities include:
               * Product Life Cycle Planning
               * Stakeholders Analysis
-              * Product Design
-              * Multi-role Collaboration and Implementation
+              * User Experience
+              * Product Innovation Design
               * Project Management
         - title: Product Manager
           company: Alibaba Group - Amap
