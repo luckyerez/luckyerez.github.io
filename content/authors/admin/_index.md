@@ -39,9 +39,7 @@ education:
   courses:
     - course: MEng in Design Engineering
       institution: Zhejiang University
-      url: https://www.zju.edu.cn/english/
       year: 2020
-      Supervisor: Shijian LUO
     - course: BEng in Industrial Design
       institution: Zhejiang A&F University
       year: 2017
