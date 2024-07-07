@@ -95,12 +95,25 @@ social:
     
 
 # Highlight the author in author lists? (true/false)
+
+#I am interested in human-computer interaction, user-centered design, and psychology.<span style="color: #6C6C6C;"> *Here are my personal characteristics:
+  # <strong><span style="color: #004B97;">1.Experience in product design for products with hundreds of millions of daily active users (DAU).</span></strong> I have served as a product manager at Amap and Taobao, and have rich practical experience in product design, team collaboration, and data analysis.  
+  #<strong><span style="color: #004B97;">2.A strong motivation to integrate technology with the health sector, especially mental health.</span></strong> Having been a patient myself, I underwent two years of psychological counseling. I aim to leverage potential technological means to assist more potential patients.  
+  #<strong><span style="color: #004B97;">3.Strong learning capabilities.</span></strong> Through diligent study, I was admitted to Zhejiang University (QS: 44) and received top 1% scholarships and honors during both my undergraduate and graduate studies.
+
+
 highlight_name: true
 ---
-I obtained a Master’s degree  from the School of Software at Zhejiang University, and I have three years of work experience in product design. I previously held the position of Senior Product Manager at Alibaba.
+I obtained a Master’s degree from the School of Software at Zhejiang University in China and have three years of work experience in product design. Previously, I held the position of Senior Product Manager at Alibaba China. My educational background in product design and interaction design has provided me with a solid foundation in design principles and methods. 
 
-I am interested in human-computer interaction, user-centered design, and psychology.<span style="color: #6C6C6C;"> *Here are my personal characteristics:*</span>  
-   <strong><span style="color: #004B97;">1.Experience in product design for products with hundreds of millions of daily active users (DAU).</span></strong> I have served as a product manager at Amap and Taobao, and have rich practical experience in product design, team collaboration, and data analysis.  
-   <strong><span style="color: #004B97;">2.A strong motivation to integrate technology with the health sector, especially mental health.</span></strong> Having been a patient myself, I underwent two years of psychological counseling. I aim to leverage potential technological means to assist more potential patients.  
-   <strong><span style="color: #004B97;">3.Strong learning capabilities.</span></strong> Through diligent study, I was admitted to Zhejiang University (QS: 44) and received top 1% scholarships and honors during both my undergraduate and graduate studies.
+<p style="text-align: justify;"><strong>I am passionate about using design thinking to solve real-world problems.</strong> <span style="color: #6C6C6C;"><em>*Here are some highlights of my experience and interests:*</em></span></p>
+
+<strong><span style="color: #004B97;">1.I have hands-on product design experience in a commercial environment serving tens of millions of users.</span></strong>  At Alibaba China, I worked as a junior and senior product manager in the Amap and Taobao departments, respectively. I am skilled in stakeholder analysis, data analysis, user research, collaboration, product iteration, and project management.
+
+2.Driven by my personal experiences, I am deeply interested in issues such as<strong><span style="color: #004B97;"> digital health (especially mental health), women's health, gender equality, and LGBT+ rights.</span></strong> Having undergone years of psychological therapy myself, I empathize with those suffering from depression and aspire to contribute to their well-being.
+
+<strong><span style="color: #004B97;">3.I have excelled both academically and professionally.</span></strong> I was awarded the National Scholarship in China, a distinction achieved by only 0.2% of individuals annually, and received promotions in my professional career. I am a trustworthy and sincere individual.
 {style="text-align: justify;"}
+
+
+
