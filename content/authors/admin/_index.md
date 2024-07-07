@@ -104,7 +104,7 @@ social:
 
 highlight_name: true
 ---
-I obtained a Master’s degree from the School of Software at Zhejiang University in China and have three years of work experience in product design. My educational background in product design and interaction design has provided me with a solid foundation in design principles and methods. Previously, I held the position of Senior Product Manager at Alibaba China.
+I obtained a Master’s degree from the School of Software at Zhejiang University in China and have three years of work experience in product design. My educational background in Industry design and interaction design has provided me with a solid foundation in design principles and methods. Previously, I held the position of Senior Product Manager at Alibaba China.
 
 <p style="text-align: justify;"><strong>I am passionate about using design thinking to solve real-world problems.</strong> <span style="color: #6C6C6C;"><em>*Here are some highlights of my experience and interests:*</em></span></p>
 
