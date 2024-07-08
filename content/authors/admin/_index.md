@@ -110,7 +110,7 @@ I obtained a Master’s degree from the School of Software at Zhejiang Universit
 
 <strong><span style="color: #004B97;">1.I have hands-on product design experience in a commercial environment serving tens of millions of users.</span></strong>  At Alibaba China, I worked as a junior and senior product manager in the Amap and Taobao departments, respectively. I am skilled in stakeholder analysis, data analysis, user research, collaboration, product iteration, and project management.
 
-2.Driven by my personal experiences, I am deeply interested in issues such as<strong><span style="color: #004B97;"> digital health (especially mental health), women's health, gender equality, and LGBT+ rights.</span></strong> Having undergone years of psychological therapy myself, I empathize with those suffering from depression and aspire to contribute to their well-being.
+2.Driven by my personal experiences, I am deeply interested in issues such as<strong><span style="color: #004B97;"> digital health (especially mental health), women's health, gender equality, and LGBT+ rights.</span></strong> I also have an open mind and am always intrigued by the unknown and the essential. Additionally, having been in therapy myself for many years, I empathize deeply with those who suffer from depression and hope to contribute to the advancement of mental health for humanity.
 
 <strong><span style="color: #004B97;">3.I have excelled both academically and professionally.</span></strong> I was awarded the National Scholarship in China, a distinction achieved by only 0.2% of individuals annually, and received promotions in my professional career. I am a trustworthy and sincere individual.
 {style="text-align: justify;"}
