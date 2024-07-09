@@ -104,11 +104,11 @@ social:
 
 highlight_name: true
 ---
-I obtained a Master’s degree from the School of Software at Zhejiang University in China and have three years of work experience in product design. My educational background in industrial design and interaction design has provided me with a solid foundation in design principles and methods. Previously, I held the position of Senior Product Manager at Alibaba China.
+I am a user-facing product manager with a goal of enhancing user experience. I obtained a Master’s degree from the School of Software at Zhejiang University in China and have three years of work experience in product design. My educational background in industrial design and interaction design has provided me with a solid foundation in design principles and methods. Previously, I held the position of Senior Product Manager at Alibaba China. I specialize in user-centered design and improving user experience.
 
 <p style="text-align: justify;"><strong>I am passionate about using design thinking to solve real-world problems.</strong> <span style="color: #6C6C6C;"><em>*Here are some highlights of my experience and interests:*</em></span></p>
 
-<strong><span style="color: #004B97;">1.I have hands-on product design experience in a commercial environment serving tens of millions of users.</span></strong>  At Alibaba China, I worked as a junior and senior product manager in the Amap and Taobao departments, respectively. I am skilled in stakeholder analysis, data analysis, user research, collaboration, product iteration, and project management.
+<strong><span style="color: #004B97;">1.I have hands-on product design experience in a commercial environment serving tens of millions of users.</span></strong>  At Alibaba China, I worked as a junior and senior product manager in the Amap and Taobao departments, respectively. My main responsibility is to serve my target users by providing a more efficient experience in e-commerce processes.  I am skilled in stakeholder analysis, data analysis, user research, collaboration, product iteration, and project management.
 
 2.Driven by my personal experiences, I am deeply interested in issues such as<strong><span style="color: #004B97;"> digital health (especially mental health), women's health, gender equality, and LGBT+ rights.</span></strong> I also have an open mind and am always intrigued by the unknown and the essential. Additionally, having been in therapy myself for many years, I empathize deeply with those who suffer from depression and hope to contribute to the advancement of mental health for humanity.
 
